@@ -1,4 +1,8 @@
 
 # Consent Analytics Dashboard
 
-Intro test (task2)
+Landing page for the Consent Analytics Dashboard section
+
+Intro to the Dashboard
+
+Description of all subsections
