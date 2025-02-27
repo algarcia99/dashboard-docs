@@ -1,0 +1,37 @@
+site_name: Consent Analytics Dashboard
+site_url: ""
+use_directory_urls: false
+plugins: []
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.tabs
+
+nav:
+
+- Overview: index.md
+- Consent Analytics Dashboard: 
+  - consent-analytics-dashboard/index.md
+  - How to use the Dashboard: 
+    - consent-analytics-dashboard/how-to-use-the-dashboard/index.md
+    - Managing the Dashboard: consent-analytics-dashboard/how-to-use-the-dashboard/managing-the-dashboard.md
+  - Reports:
+    - consent-analytics-dashboard/reports/index.md
+    - How to generate a Report: consent-analytics-dashboard/reports/how-to-generate-a-report.md
+    - Types of Reports: consent-analytics-dashboard/reports/types-of-reports.md
+  - Compliance: consent-analytics-dashboard/compliance.md
+- For Developers:
+  - for-developers/index.md
+  - Getting Started with the API: for-developers/getting-started-with-the-api.md
+  - Authentication: for-developers/authentication.md
+  - Guides:
+    - for-developers/guides/index.md
+    - How to generate a Report: for-developers/guides/how-to-generate-a-report-guide.md
+  - API Reference: for-developers/api-reference/index.md
+  - Glossary: for-developers/glossary.md
+
+
+
